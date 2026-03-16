@@ -9,7 +9,7 @@ This project was to design and deploy a SOC environment capable of automating th
 - Endpoint Monitoring: Deploying and configuring Sysmon and Wazuh Agents on Windows 11 to capture granular telemetry.
 - Database Management: Configuring Cassandra for data persistence and Elasticsearch for high-speed log indexing and search.
 - Config Management: Modifying complex .yml, .conf, and .yaml files to bind services to correct IP addresses and listeners.
-  
+
 ### Tools Used
 - Wazuh
 - Shuffle
